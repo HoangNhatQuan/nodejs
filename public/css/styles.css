@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+}
